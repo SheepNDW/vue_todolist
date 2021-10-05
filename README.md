@@ -1,5 +1,7 @@
 # TodoList 案例
 
+![image](https://raw.githubusercontent.com/SheepNDW/vue_todolist/master/src/sampleGif/todolist.gif)
+
 ## 概要
 
 以腳手架(Vue CLI )開發一個可以進行增､刪､改並帶有本地儲存功能(LocalStorage)的 TodoList 案例
